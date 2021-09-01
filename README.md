@@ -4,7 +4,7 @@
 
 ## Questions to ask before you start
 
-Because of the flexibility and functionality online guidelines can provide to the user, it's important to understand who those users are going to be, and for what reasons they'll be accessing the guidelines. Here are some questions worth asking before you start planning and creating content.
+Because of the flexibility and functionality online guidelines can provide to the user, it's important to understand who those users are going to be, and for what reasons they'll be accessing the guidelines. Here are some questions worth asking before you start planning and creating content. Knowing the answers will 
 
 ### What design work are the guidelines primarily going to support?
 
@@ -23,13 +23,17 @@ Are the guidelines for internal teams? External designers/agencies working for y
 
 ### Is the intention to create an internal support structure or team around the guidelines?
 
-Will someone be designated an owner or evangelist for the guidelines? Is the intention that the guidelines be developed, updated and improved over time?
+Will someone be designated an owner or evangelist for the guidelines? 
+
+If it important 
+
+Is the intention that the guidelines be developed, updated and improved over time?
 
 ## Creating content
 
 ### Colours
 
-Giving descriptive names to all the primary brand colours is important. Web colours can take these names as the basis for CSS custom properties or design tokens. This can be suggested in the supporting copy or explicitly specced out.
+Giving descriptive names to all the primary brand colours is important. Developers can take these names as the basis for CSS custom properties or design tokens. This can be suggested in the supporting copy or explicitly specced out.
 
 ### Images
 
@@ -41,7 +45,7 @@ Images need to be intelligible at small screen sizes. Keep them simple and use t
 
 ### Logos
 
-The digital use of logos should be considered when creating logos. These could include:
+When creating logos, make sure to consider their digital applications:
 
 * Social Media avatars (typically square or circular)
 * Website favicon (16px square)
