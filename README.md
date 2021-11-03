@@ -13,7 +13,7 @@ What areas of design are the guidelines going to support?
 * Brand positioning and values?
 * Print design?
 * Interior/Exterior spaces?
-* Animation and film?
+* Animation and film?é
 * Social media?
 * Digital products?
 
